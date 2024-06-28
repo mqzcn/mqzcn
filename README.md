@@ -1,13 +1,18 @@
-## Your Name
+## Mazen Magzoub
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I started my web-dev journey by leveraging online resources like the Odin project, Codecademy, and Harvard CS50 to establish a strong foundation in web development. I then Identified knowledge gaps and recognised the need for a structured learning environment to solidify my knowledge and accelerate skill development.
+Therefore, I joined Makers bootcamp, consolidating previous learning and acquiring the necessary skills to contribute meaningfully to a software team.
+
+My coding journey has been substantial, encompassing self-taught coding and process management skills in personal tech projects. Through these experiences, I have gained proficiency in web technologies such as JavaScript, React JS and Node, among others and developed a strong foundation in algorithmic thinking, and honed my problem-solving skills.
+
+These practical encounters have not only equipped me with the technical skills necessary for software development but have also instilled in me a passion for the iterative and creative aspects of coding.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                | Tech/tools        |
+| ---------------------------- | -----------------          | ----------------- |
+| **MakersBnb**                | A webapp clone of AirBnB   | React, Express, MongoDB, Node |
+| **Acebook**                  | A webapp clone of Facebook | React, Express, MongoDB, Node |
 
 ## Work Experience
 
