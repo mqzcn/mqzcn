@@ -1,4 +1,4 @@
-## Who am I?
+## What's the story?
 
 I started my web-dev journey by leveraging online resources like the Odin project, Codecademy, and Harvard CS50 to establish a strong foundation in web development. I then Identified knowledge gaps and recognised the need for a structured learning environment to solidify my knowledge and accelerate skill development.
 
@@ -18,6 +18,7 @@ These practical encounters have not only equipped me with the technical skills n
 
 ## SKILLS
 Scrum Fundamentals Certified
+
 Python | SQL | Javascript | Next JS | React JS | Vite | Node JS | MongoDB | Postgres | Tailwind | HTML | CSS | Git | CI/CD | TDD
 ## SOFT SKILLS
 Team worker | Self-motivated Good communicator | Detail-oriented
