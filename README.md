@@ -13,7 +13,7 @@ These practical encounters have not only equipped me with the technical skills n
 | ---------------------------- | -----------------          | ----------------- |
 | **Acebook**                  | A webapp clone of Facebook | React, Express, MongoDB, Node |
 | **SpyInvest**                | Investment tracking web and mobile app | React, Express, PostgreSQL, Node, Swift |
-| **MakersBnb**                | A webapp clone of AirBnB   | React, Express, MongoDB, Node |
+| **MakersBnb**                | A webapp clone of AirBnB   | React, Flask, PostgreSQL |
 
 <p align="left"> <a href="https://github.com/mqzcn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mqzcn" alt="mqzcn" /></a> </p>
 
