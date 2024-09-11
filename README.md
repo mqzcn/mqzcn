@@ -23,7 +23,7 @@ Scrum Fundamentals Certified (scrumstudy.com)
 Python | SQL | Javascript | Swift | Next JS | React JS | Vite | Node JS | MongoDB | PostgreSQL | Tailwind | HTML | CSS | Git | CI/CD | TDD
 
 ## SOFT SKILLS
-Team worker | Self-motivated Good communicator | Detail-oriented
+Team worker | Self-motivated | Good communicator | Detail-oriented
 
 ## EXPERIENCE
 Dukkan e-comm platform, Sudan — Co-founder and COO AUG 2016 - AUG 2019
@@ -60,7 +60,7 @@ AUG 2009 - JUN 2011
 Higher National Certificate in Marketing.
 
 ## INTERESTS
-### Technology | Music production | Formula 1 | Football |
+### Technology | Music production | Formula 1 | Football
 
 
 #### THE COOLEST SIDE PROJECT I'VE BUILT IS...
