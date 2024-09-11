@@ -11,15 +11,17 @@ These practical encounters have not only equipped me with the technical skills n
 
 | Name                         | Description                | Tech/tools        |
 | ---------------------------- | -----------------          | ----------------- |
-| **MakersBnb**                | A webapp clone of AirBnB   | React, Express, MongoDB, Node |
 | **Acebook**                  | A webapp clone of Facebook | React, Express, MongoDB, Node |
+| **SpyInvest**                | Investment tracking web and mobile app | React, Express, MongoDB, Node, Swift |
+| **MakersBnb**                | A webapp clone of AirBnB   | React, Express, MongoDB, Node |
 
 <p align="left"> <a href="https://github.com/mqzcn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mqzcn" alt="mqzcn" /></a> </p>
 
 ## SKILLS
-Scrum Fundamentals Certified
+Scrum Fundamentals Certified (scrumstudy.com)
 
-Python | SQL | Javascript | Next JS | React JS | Vite | Node JS | MongoDB | Postgres | Tailwind | HTML | CSS | Git | CI/CD | TDD
+Python | SQL | Javascript | Swift | Next JS | React JS | Vite | Node JS | MongoDB | Postgres | Tailwind | HTML | CSS | Git | CI/CD | TDD
+
 ## SOFT SKILLS
 Team worker | Self-motivated Good communicator | Detail-oriented
 
