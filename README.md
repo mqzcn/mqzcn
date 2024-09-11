@@ -58,7 +58,7 @@ AUG 2009 - JUN 2011
 Higher National Certificate in Marketing.
 
 ## INTERESTS
-### Music production | Formula 1 | Football | Cooking
+### Technology | Music production | Formula 1 | Football |
 
 
 #### THE COOLEST SIDE PROJECT I'VE BUILT IS...
