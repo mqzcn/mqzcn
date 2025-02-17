@@ -11,12 +11,12 @@ These practical encounters have not only equipped me with the technical skills n
 
 | Name                         | Description                | Tech/tools        |
 | ---------------------------- | -----------------          | ----------------- |
-| ⚫️ **[Quizzard](https://github.com/olnov/trivia)**                 | A multiplayer trivia game  | React, Springboot, PostgreSQL, Socket.io
-| ⚫️ **[Acebook](https://github.com/Matt-Wilkes/acebook-Fire)**                  | A webapp clone of Facebook | React, Express, MongoDB, Node |
-| ⚫️ **[SpyInvest](https://github.com/olnov/spyinvest)**                | Investment tracking web and mobile app | React, Express, PostgreSQL, Node, Swift |
+| ⚫️ **[Quizzard](https://github.com/olnov/trivia)**                 | A multiplayer trivia game  | React, Springboot, PostgreSQL, Socket.io |
+| ⚫️ **[Acebook](https://github.com/Matt-Wilkes/acebook-Fire)**                  | A webapp clone of Facebook | React, Express, MongoDB, Node.js |
+| ⚫️ **[Spy Invest](https://github.com/olnov/spyinvest)**                | Investment tracking web and mobile app | React, Express, PostgreSQL, Node.js, Swift |
 | ⚫️ **[MakersBnb](https://github.com/petesteele98/makersbnbTVD)**                | A webapp clone of AirBnB   | React, Flask, PostgreSQL |
+| ⚫️ **[Expert Language](https://github.com/mqzcn/expert)**  | A platform for interpreting and translation services | React, Express, MongoDB, Node.js |
 
-<p align="left"> <a href="https://github.com/mqzcn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mqzcn" alt="mqzcn" /></a> </p>
 
 ## SKILLS
 
