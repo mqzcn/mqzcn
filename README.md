@@ -97,11 +97,11 @@ These practical encounters have not only equipped me with the technical skills n
 ## EDUCATION
 ⚫️ **Makers Academy**, London (Remote) — Software Engineering - SEP 2024 - NOV 2024
 
-Software Engineering bootcamp specialising in Java
+Software Engineering bootcamp specialising in Java.
 
 ⚫️ **Makers Academy**, London (Remote) — Software Engineering - MAY 2024 - SEP 2024
 
-Software Engineering bootcamp specialising in JavaScript
+Software Engineering bootcamp specialising in JavaScript.
 
 ⚫️ **Abertay University**, Dundee — Sound Engineering (BA Hons) - AUG 2014 - JUN 2016
 
