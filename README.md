@@ -2,8 +2,10 @@
 
 I started my web-dev journey by leveraging online resources like the Odin project, Codecademy, and Harvard CS50 to establish a strong foundation in web development. I then Identified knowledge gaps and recognised the need for a structured learning environment to solidify my knowledge and accelerate skill development.
 
-Therefore, I joined Makers bootcamp, consolidating previous learning and acquiring the necessary skills to contribute meaningfully to a software team.
+I then joined Makers Academy bootcamp, consolidating previous learning and acquiring the necessary skills to contribute meaningfully to a software team.
 
+but wait... what's Makers? - It's a highly immersive and intensive software engineering bootcamp designed to transform individuals into capable junior software engineers.
+find out more here **[makers.tec](https://makers.tech)** 
 
 These practical encounters have not only equipped me with the technical skills necessary for software development but have also instilled in me a passion for the iterative and creative aspects of coding.
 
