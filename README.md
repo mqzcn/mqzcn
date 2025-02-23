@@ -22,7 +22,7 @@ These practical encounters have not only equipped me with the technical skills n
 
 **Technologies:** React.js, Next.js,  Node.js,  Express.js, MongoDB, PostgreSQL, Tailwind CSS, Bootstrap, Material UI, Git, Docker, HTML, CSS, Playwright, Vite, Template Engines, Flyway, SpringBoot, Gradle
 
-**Other:** Scrum Fundamentals Certified (from ScrumStudy.com), CI/CD, Test-Driven-Development, Object-Oriented Programming, AWS Cloud Practitioner (in-progress)
+**Other:** AWS Cloud Practitioner, Scrum Fundamentals Certified (from ScrumStudy.com), CI/CD, Test-Driven-Development, Behaviour-Driven-Development, Object-Oriented Programming
 
 ## EDUCATION
 ⚫️ **Makers Academy**, London (Remote) — Software Engineering - MAY 2024 - SEP 2024
