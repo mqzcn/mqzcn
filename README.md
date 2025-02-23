@@ -5,7 +5,7 @@ I started my web-dev journey by leveraging online resources like the Odin projec
 I then joined Makers Academy bootcamp, consolidating previous learning and acquiring the necessary skills to contribute meaningfully to a software team.
 
 but wait... what's Makers? - It's a highly immersive and intensive software engineering bootcamp designed to transform individuals into capable junior software engineers.
-find out more here **[makers.tec](https://makers.tech)** 
+find out more here **[makers.tech](https://makers.tech)** 
 
 These practical encounters have not only equipped me with the technical skills necessary for software development but have also instilled in me a passion for the iterative and creative aspects of coding.
 
