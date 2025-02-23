@@ -16,6 +16,8 @@ These practical encounters have not only equipped me with the technical skills n
 | ⚫️ **[Spy Invest](https://github.com/olnov/spyinvest)**                | Investment tracking web and mobile app | React, Express, PostgreSQL, Node.js, Swift |
 | ⚫️ **[MakersBnb](https://github.com/petesteele98/makersbnbTVD)**                | A webapp clone of AirBnB   | React, Flask, PostgreSQL |
 | ⚫️ **[Expert Language](https://github.com/mqzcn/expert)**  | A platform for interpreting and translation services | React, Express, MongoDB, Node.js |
+| ⚫️ **[Ascend](https://github.com/mqzcn/ascend2)**  | A platform for centralising Costa store orders | React, Strapi, graphQL, Next.js |
+
 
 
 ## SKILLS
@@ -62,6 +64,9 @@ Founded a skincare company and launched a product line and online store.
 Team worker | Self-motivated | Good communicator | Detail-oriented
 
 ## MISC
+
+
+**[Ascend](https://github.com/mqzcn/ascend)**
 
 ### Most Exciting Side Projects:
 Developed an app to consolidate all Costa franchise orders from various suppliers into one platform that provides an intuitive user experience, easing the process for Team Leaders and increasing productivity by a significant amount. Developed a website resembling a search engine for cryptocurrency terminology and knowledge. The site features a grid-based card layout for intuitive and efficient information retrieval.
