@@ -7,7 +7,7 @@ Therefore, I joined Makers bootcamp, consolidating previous learning and acquiri
 
 These practical encounters have not only equipped me with the technical skills necessary for software development but have also instilled in me a passion for the iterative and creative aspects of coding.
 
-### The technologies I use
+## The technologies I use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
@@ -61,7 +61,7 @@ These practical encounters have not only equipped me with the technical skills n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
 
-### and some Github Stats
+## and some Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mqzcn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -70,7 +70,7 @@ These practical encounters have not only equipped me with the technical skills n
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mqzcn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<h3>Projects</h3>
+## PROJECTS
 
 | Name                         | Description                | Tech/tools        |
 | ---------------------------- | -----------------          | ----------------- |
