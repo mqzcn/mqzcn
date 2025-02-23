@@ -85,13 +85,21 @@ These practical encounters have not only equipped me with the technical skills n
 
 ## SKILLS
 
-- AWS Cloud Practitioner  - Scrum Fundamentals Certified (from ScrumStudy.com)  - CI/CD
-- Test-Driven-Development  - Behaviour-Driven-Development  - Object-Oriented Programming
+- AWS Cloud Practitioner
+- Scrum Fundamentals Certified (from ScrumStudy.com)
+- Continuous Integration / Continuous Deployment
+- Object-Oriented Programming
+- Test-Driven-Development
+- Behaviour-Driven-Development
 
 ## EDUCATION
+⚫️ **Makers Academy**, London (Remote) — Software Engineering - SEP 2024 - NOV 2024
+
+Software Engineering bootcamp specialising in Java
+
 ⚫️ **Makers Academy**, London (Remote) — Software Engineering - MAY 2024 - SEP 2024
 
-Software Engineering bootcamp.
+Software Engineering bootcamp specialising in JavaScript
 
 ⚫️ **Abertay University**, Dundee — Sound Engineering (BA Hons) - AUG 2014 - JUN 2016
 
