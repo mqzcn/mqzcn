@@ -78,7 +78,7 @@ These practical encounters have not only equipped me with the technical skills n
 | ---------------------------- | -----------------          | ----------------- |
 | ⚫️ **[Quizzard](https://github.com/olnov/trivia)**                 | A multiplayer trivia game  | React, Springboot, PostgreSQL, Socket.io |
 | ⚫️ **[Acebook](https://github.com/Matt-Wilkes/acebook-Fire)**                  | A webapp clone of Facebook | React, Express, MongoDB, Node.js |
-| ⚫️ **[Spy Invest](https://github.com/olnov/spyinvest)**                | Investment tracking web and mobile app | React, Express, PostgreSQL, Node.js, Swift |
+| ⚫️ **[Spy Invest](https://github.com/olnov/spyinvest)**                | An investment tracking web and mobile app | React, Express, PostgreSQL, Node.js, Swift |
 | ⚫️ **[MakersBnb](https://github.com/petesteele98/makersbnbTVD)**                | A webapp clone of AirBnB   | React, Flask, PostgreSQL |
 | ⚫️ **[Expert Language](https://github.com/mqzcn/expert)**  | A platform for interpreting and translation services | React, Express, MongoDB, Node.js |
 | ⚫️ **[Ascend](https://github.com/mqzcn/ascend2)**  | A platform for centralising Costa store orders | React, Strapi, graphQL, Next.js |
