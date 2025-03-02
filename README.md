@@ -95,6 +95,9 @@ These practical encounters have not only equipped me with the technical skills n
 - Behaviour-Driven-Development
 
 ## EDUCATION
+⚫️ **Makers Academy**, London (Remote) — Software Engineering - FEB 2025 - MAR 2025
+
+Software Engineering bridge programme specialising in Scala.
 ⚫️ **Makers Academy**, London (Remote) — Software Engineering - SEP 2024 - NOV 2024
 
 Software Engineering bootcamp specialising in Java.
