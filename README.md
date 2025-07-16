@@ -107,35 +107,6 @@ Software Engineering bootcamp specialising in Java.
 
 Software Engineering bootcamp specialising in JavaScript.
 
-⚫️ **Abertay University**, Dundee — Sound Engineering (BA Hons) - AUG 2014 - JUN 2016
-
-Bachelor of Arts with Honours in Sound Engineering.
-
-⚫️ **Stow College**, Glasgow — Sound Engineering (HND) - AUG 2011 - JUN 2013
-
-Higher National Diploma in Sound Engineering.
-
-⚫️ **Central College of Commerce**, Glasgow — Marketing (HNC) - AUG 2009 - JUN 2011
-
-Higher National Certificate in Marketing.
-
-## EXPERIENCE
-⚫️ **Dukkan e-comm platform**, Sudan — Co-founder and COO - AUG 2016 - AUG 2019
-
-Co-founded an e-commerce platform,overseeing all business operations. Expanded team and diversified service offerings. Managed the design and development of mobile applications for the platform
-
-⚫️ **WHSmith/Costa Coffee**, Bristol — Team Leader & Costa Franchise manager - FEB 2023 - AUG 2023
-
-Establishing and training a team of baristas for the opening of a new Costa outlet allowed me to gain key skills in leadership, communication and management as I also assumed responsibilities of store manager for 50% of tenure.
-
-⚫️ **WHSmith**, Bristol — Sales Assistant - DEC 2022 - FEB 2023
-
-Managed stock replenishment on the sales floor. Ensured timely acceptance of supply deliveries. Provided attentive customer service throughout the store.
-
-⚫️ **FECT Ltd**, Glasgow — Founder - MAR 2020 - MAR 2021
-
-Founded a skincare company and launched a product line and online store.
-
 ## SOFT SKILLS
 Team worker | Self-motivated | Good communicator | Detail-oriented
 
